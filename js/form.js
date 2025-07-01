@@ -1,8 +1,8 @@
 import {
   pristine,
   validateForm
-} from './form-validation';
-import {isEscape} from './util';
+} from './form-validation.js';
+import {isEscape} from './util.js';
 import './picture-scaling.js';
 import {resetStyle} from './picture-effects.js';
 import {sendFormData} from './api.js';

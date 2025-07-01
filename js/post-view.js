@@ -3,7 +3,7 @@ import {
   renderCommentsList,
   getCommentsNumber
 } from './post-comments.js';
-import {isEscape} from './util';
+import {isEscape} from './util.js';
 
 let currentPost;
 
